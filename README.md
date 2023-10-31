@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m Senior Statistics Student at METU<br>🌱 I’m interested in R and visualization<br>
+🔭 I’m statistics graduate from METU <br> 🌱 I’m interested in R and SQL <br> 🧑🏻‍💻 ML models
 
 
 ## 🌐 Socials:
