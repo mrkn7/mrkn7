@@ -7,6 +7,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-ali-erkan)
+[![Department Website](https://img.shields.io/badge/Department%20Website-%23000000.svg?logo=academia&logoColor=white)](https://stat.metu.edu.tr/en/mehmet-ali-erkan)
 
 
 # 💻 Tech Stack:
