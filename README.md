@@ -14,9 +14,13 @@
 
 
 # 💻 Tech Stack:
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Demetra+](https://img.shields.io/badge/Demetra+%20-%234ea94b.svg?style=for-the-badge&logo=demetra&logoColor=white)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Demetra+](https://img.shields.io/badge/Demetra%2B-%234ea94b.svg?style=for-the-badge&logo=databricks&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-%23007ACC.svg?style=for-the-badge&logo=openai&logoColor=white)
+![MN5](https://img.shields.io/badge/MN5%20Supercomputer-%2300BFFF.svg?style=for-the-badge&logo=superuser&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+
 
 
 ### 🔍 Research Interests:
