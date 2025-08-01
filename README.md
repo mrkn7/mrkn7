@@ -1,8 +1,8 @@
 
 # 💫 About Me:
-👨‍🏫 I currently work as a **Research and Teaching Assistant** at the Department of Statistics, Middle East Technical University. 
-🌱 I’m interested in text minning, applied statistics and deep learning  
-🧑🏻‍💻 I have experience building and implementing LLM models.  
+- 👨‍🏫 I currently work as a **Research and Teaching Assistant** at the Department of Statistics, [Middle East Technical University](https://metu.edu.tr/)
+- 🌱 I’m interested in **text mining**, applied statistics, and deep learning  
+- 🧑🏻‍💻 I have experience building and implementing **LLM models**
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mehmet-ali-erkan&color=blue)
