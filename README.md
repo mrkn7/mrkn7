@@ -1,9 +1,9 @@
 
 # 💫 About Me:
-🔭 I’m a statistics graduate from METU.  
-🌱 I’m interested in R, data visualization, deep learning, and forecasting.  
-🧑🏻‍💻 I have experience building and implementing machine learning models.  
-👨‍🏫 I currently work as a **Research and Teaching Assistant** at the Department of Statistics, Middle East Technical University.  
+👨‍🏫 I currently work as a **Research and Teaching Assistant** at the Department of Statistics, Middle East Technical University. 
+🌱 I’m interested in text minning, applied statistics and deep learning  
+🧑🏻‍💻 I have experience building and implementing LLM models.  
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mehmet-ali-erkan&color=blue)
 
@@ -30,4 +30,6 @@
 ### 📘 Assisted Courses / Laboratories:
 - **STAT 295** - Object Oriented Programming (Spring 2024)  
 - **STAT 495** - Application in Statistics (Spring 2024)  
-- **STAT 311** - Modern Database Systems (Fall 2024)  
+- **STAT 311** - Modern Database Systems (Fall 2024)
+- **STAT 333** - Data Structures and Algorithms (Spring 2025)
+- **STAT 250** - Applied Statistics (Spring 2025)
